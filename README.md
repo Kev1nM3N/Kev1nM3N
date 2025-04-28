@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kevin Mendez
 ====================================================================================================================================
 
-Software Developer
+Frontend Developer
 ------------------
 
 I have a passion for creating beautiful, user-friendly web experiences. My goal is to grow into a mid-level developer role where I can not only build impactful projects, but also support junior developers in their journey. I believe in the power of mentorship and collaboration to help people feel more confident in their skills. I enjoy working with tools like Vite, JavaScript, Firebase, and Appwrite, and I'm especially drawn to projects in the self-help and wellness space. Whether it’s helping a client launch their personal brand or building an app that helps users connect with themselves, I’m driven by the satisfaction of bringing ideas to life. Outside of coding, I love playing around with Photoshop and making gifs just for fun. I'm also planning to dive into 2D animation soon—I see storytelling and creativity as an important part of who I am.
