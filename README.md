@@ -7,7 +7,7 @@ Frontend Developer
 I have a passion for creating beautiful, user-friendly web experiences. My goal is to grow into a mid-level developer role where I can not only build impactful projects, but also support junior developers in their journey. I believe in the power of mentorship and collaboration to help people feel more confident in their skills. I enjoy working with tools like Vite, JavaScript, Firebase, and Appwrite, and I'm especially drawn to projects in the self-help and wellness space. Whether it’s helping a client launch their personal brand or building an app that helps users connect with themselves, I’m driven by the satisfaction of bringing ideas to life. Outside of coding, I love playing around with Photoshop and making gifs just for fun. I'm also planning to dive into 2D animation soon—I see storytelling and creativity as an important part of who I am.
 
 *   🌍  I'm based in Florida
-*   🖥️  See my portfolio at [Kevin's Portfolio](http://kevins-delta-portfolio.vercel.app/)
+*   🖥️  See my portfolio at [Kevin's Portfolio](http://www.kevinmendez.dev/)
 *   ✉️  You can contact me at [mendez.kevin44@yahoo.com](mailto:mendez.kevin44@yahoo.com)
 *   🧠  I'm learning Appwrite
 *   ⚡  "What you seek is seeking you" - Rumi
