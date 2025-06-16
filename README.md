@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I have a passion for creating beautiful, user-friendly web experiences. My goal is to grow into a mid-level developer role where I can not only build impactful projects, but also support junior developers in their journey. Outside of coding, I love playing around with Photoshop and diving into 2D animation using Moho. I see storytelling and creativity as an important part of who I am.
+I have a passion for creating beautiful, user-friendly web experiences. My goal is to grow into a mid-level developer role where I can not only build impactful projects, but also support junior developers in their journey. Outside of coding, I love playing around with Photoshop and diving into 2D animation.
 
 *   🌍  I'm based in Florida
 *   🖥️  See my portfolio at [Kevin's Portfolio](http://www.kevinmendez.dev/)
