@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kevin Mendez
 ====================================================================================================================================
 
-Frontend Developer
+Software Developer
 ------------------
 
 I have a passion for creating beautiful, user-friendly web experiences. My goal is to grow into a mid-level developer role where I can not only build impactful projects, but also support junior developers in their journey. Outside of coding, I love playing around with Photoshop and diving into 2D animation.
